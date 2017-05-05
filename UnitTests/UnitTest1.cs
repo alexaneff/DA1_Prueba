@@ -7,8 +7,9 @@ namespace UnitTests
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void AddUser()
         {
+            User OneUser = new User();
         }
     }
 }
